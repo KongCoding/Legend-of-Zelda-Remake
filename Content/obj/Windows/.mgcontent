@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/RoomSprites/DetailedMap.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/RoomSprites/Room.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/ArtifactSprites/RightClosedDoor.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/ArtifactSprites/LeftClosedDoor.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/ProjectileSprites/UseBomb.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/ProjectileSprites/UseBomb .png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/LinkSprites/LinkWalkUp.png</File>
+    <File>C:/Users/Administrator/source/repos/Sprint2/Sprint2/Content/LinkSprites/LinkWalkDown.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

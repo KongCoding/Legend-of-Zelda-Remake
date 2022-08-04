@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<level>
+  <room id="1">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Player Type="Link" X="480" Y="280"/>
+    <Item Type="Arrow" X="120" Y="122"/>
+    <Item Type="BlueRupy" X="200" Y="122"/>
+    <Item Type="Bow" X="280" Y="122"/>
+    <Item Type="Clock" X="360" Y="122"/>
+    <Item Type="Compass" X="440" Y="122"/>
+    <Item Type="Fairy" X="120" Y="200"/>
+    <Item Type="Heart" X="200" Y="200"/>
+    <Item Type="HeartContainer" X="280" Y="200"/>
+    <Item Type="Key" X="360" Y="200"/>
+    <Item Type="Map" X="440" Y="200"/>
+    <Item Type="Sword" X="120" Y="280"/>
+    <Item Type="Triforce" X="200" Y="280"/>
+    <Item Type="YellowRupy" X="280" Y="280"/>
+    <Projectile Type="Bomb" X="360" Y="280"/>
+    <Projectile Type="Boomerang" X="440" Y="280"/>
+  </room>
+  
+  <room id="2">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="3"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="240" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="240" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="240" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="280" Width="40" Height="40"/>
+    <Player Type="Link" X="290" Y="270"/>
+    <Enemy Type="Aquamentus" X="163" Y="163"/>
+    <Enemy Type="Aquamentus" X="404" Y="122"/>
+  </room>
+  
+  <room id="3">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="160" Width="80" Height="120"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="160" Width="80" Height="120"/>
+    <Player Type="Link" X="290" Y="270"/>
+    <Enemy Type="Gel" X="280" Y="160"/>
+    <Enemy Type="Gel" X="400" Y="95"/>
+  </room>
+  
+  <room id="4">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="1"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="3"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="160" Width="80" Height="120"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Goriya" X="120" Y="160"/>
+    <Enemy Type="Goriya" X="440" Y="160"/>
+  </room>
+
+  <room id="5">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="3"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="3"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="160" Width="80" Height="120"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Keese" X="120" Y="160"/>
+    <Enemy Type="Keese" X="440" Y="160"/>
+  </room>
+  
+  <room id="6">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="1"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="240" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="240" Width="40" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Stalfos" X="200" Y="200"/>
+    <Enemy Type="Stalfos" X="360" Y="120"/>
+  </room>
+  
+  <room id="7">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="280" Width="40" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Wallmaster" X="200" Y="200"/>
+    <Enemy Type="Wallmaster" X="360" Y="200"/>
+  </room>
+  
+  <room id="8">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Character Type="Oldman" X="300" Y="160"/>
+    <Player Type="Link" X="300" Y="300"/>
+    <Item Type="Sword" X="120" Y="280"/>
+    <Item Type="YellowRupy" X="280" Y="280"/>
+    <Item Type="Heart" X="200" Y="280"/>
+  </room>
+  
+  <room id="9">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="3"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="2"/>
+    <Aritifact Type="MovableBlock" X="280" Y="200"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Trap" X="512" Y="90"/>
+    <Enemy Type="Trap" X="512" Y="290"/>
+  </room>
+
+  <room id="10">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="3"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="120" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="120" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="200" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="280" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="280" Width="80" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Aquamentus" X="120" Y="200"/>
+    <Enemy Type="Aquamentus" X="440" Y="200"/>  
+  </room>
+  
+  <room id="11">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="1"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="3"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="240" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="240" Width="40" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Keese" X="200" Y="200"/>
+    <Enemy Type="Keese" X="360" Y="120"/>
+  </room>
+  
+  <room id="12">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="3"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="200" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="120" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="200" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="200" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="200" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="280" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="280" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="280" Width="40" Height="40"/>
+    <Player Type="Link" X="300" Y="320"/>
+    <Enemy Type="Gel" X="161" Y="161"/>
+    <Enemy Type="Gel" X="361" Y="241"/>
+  </room>
+  
+  <room id="13">
+    <!--UNFINISHED-->
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="117" Height="329"/>
+    <Artifact Type="UnmovableBlock" X="158" Y="0" Width="121" Height="329"/>
+    <Artifact Type="UnmovableBlock" X="278" Y="0" Width="361" Height="194"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="329" Width="79" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="278" Y="232" Width="161" Height="97"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="232" Width="78" Height="97"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="194" Width="81" Height="175"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="368" Width="640" Height="72"/>
+    <Player Type="Link" X="117" Y="0"/>
+    <Enemy Type="Keese" X="200" Y="200"/>
+    <Enemy Type="Keese" X="320" Y="240"/>
+  </room>
+  
+  <room id="14">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="0" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="279" Y="33" Width="1" Height="3"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="1"/>
+    <Artifact Type="Water" X="80" Y="80"/>
+    <Artifact Type="Water" X="120" Y="80"/>
+    <Artifact Type="Water" X="160" Y="80"/>
+    <Artifact Type="Water" X="200" Y="80"/>
+    <Artifact Type="Water" X="240" Y="80"/>
+    <Artifact Type="Water" X="360" Y="80"/>
+    <Artifact Type="Water" X="400" Y="80"/>
+    <Artifact Type="Water" X="440" Y="80"/>
+    <Artifact Type="Water" X="480" Y="80"/>
+    <Artifact Type="Water" X="520" Y="80"/>
+    <Artifact Type="Water" X="80" Y="120"/>
+    <Artifact Type="Water" X="240" Y="120"/>
+    <Artifact Type="Water" X="440" Y="120"/>
+    <Artifact Type="Water" X="520" Y="120"/>
+    <Artifact Type="Water" X="80" Y="160"/>
+    <Artifact Type="Water" X="160" Y="160"/>
+    <Artifact Type="Water" X="240" Y="160"/>
+    <Artifact Type="Water" X="320" Y="160"/>
+    <Artifact Type="Water" X="360" Y="160"/>
+    <Artifact Type="Water" X="440" Y="160"/>
+    <Artifact Type="Water" X="520" Y="160"/>
+    <Artifact Type="Water" X="160" Y="200"/>
+    <Artifact Type="Water" X="240" Y="200"/>
+    <Artifact Type="Water" X="360" Y="200"/>
+    <Artifact Type="Water" X="440" Y="200"/>
+    <Artifact Type="Water" X="80" Y="240"/>
+    <Artifact Type="Water" X="160" Y="240"/>
+    <Artifact Type="Water" X="240" Y="240"/>
+    <Artifact Type="Water" X="280" Y="240"/>
+    <Artifact Type="Water" X="360" Y="240"/>
+    <Artifact Type="Water" X="440" Y="240"/>
+    <Artifact Type="Water" X="520" Y="240"/>
+    <Artifact Type="Water" X="80" Y="280"/>
+    <Artifact Type="Water" X="160" Y="280"/>
+    <Artifact Type="Water" X="360" Y="280"/>
+    <Artifact Type="Water" X="520" Y="280"/>   
+    <Artifact Type="Water" X="120" Y="320"/>
+    <Artifact Type="Water" X="160" Y="320"/>
+    <Artifact Type="Water" X="200" Y="320"/>
+    <Artifact Type="Water" X="240" Y="320"/>
+    <Artifact Type="Water" X="360" Y="320"/>
+    <Artifact Type="Water" X="400" Y="320"/>
+    <Artifact Type="Water" X="440" Y="320"/>
+    <Artifact Type="Water" X="480" Y="320"/>
+    <Artifact Type="Water" X="520" Y="320"/>
+    <Player Type="Link" X="300" Y="300"/>
+    <Enemy Type="Wallmaster" X="120" Y="200"/>
+    <Enemy Type="Wallmaster" X="400" Y="200"/>
+  </room>
+  
+  <room id="15">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="561" Y="181" Width="4" Height="2"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="3"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="80" Width="200" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="120" Width="120" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="160" Width="80" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="320" Width="200" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="440" Y="280" Width="120" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="240" Width="80" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Goriya" X="160" Y="160"/>
+    <Enemy Type="Goriya" X="240" Y="120"/>
+  </room>
+  
+  <room id="16">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="1"/>
+    <Artifact Type="UnmovableBlock" X="120" Y="120" Width="40" Height="200"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="120" Width="320" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="480" Y="120" Width="40" Height="200"/>
+    <Artifact Type="UnmovableBlock" X="160" Y="280" Width="120" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="280" Width="120" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="240" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="200" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="200" Width="40" Height="40"/>
+    <Player Type="Link" X="290" Y="300"/>
+    <Enemy Type="Stalfos" X="287" Y="206"/>
+    <Enemy Type="Stalfos" X="80" Y="240"/>
+  </room>
+  
+  <room id="17">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="360" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="320" Y="120" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="160" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="400" Y="200" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="280" Y="240" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="360" Y="240" Width="40" Height="40"/>
+    <Artifact Type="UnmovableBlock" X="320" Y="280" Width="40" Height="40"/>
+    <Artifact Type="MovableBlock" X="240" Y="200"/>
+    <Player Type="Link" X="495" Y="200"/>
+  </room>
+  
+  <room id="18">
+    <Artifact Type="UnmovableBlock" X="0" Y="0" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="0" Y="262" Width="80" Height="181"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="0" Width="482" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="559" Y="0" Width="80" Height="440"/>
+    <Artifact Type="UnmovableBlock" X="80" Y="359" Width="200" Height="80"/>
+    <Artifact Type="UnmovableBlock" X="362" Y="359" Width="200" Height="80"/>
+    <Artifact Type="Door" X="30" Y="181" Width="3" Height="3"/>
+    <Artifact Type="Door" X="279" Y="360" Width="2" Height="3"/>
+    <Artifact Type="Water" X="120" Y="120"/>
+    <Artifact Type="Water" X="160" Y="120"/>
+    <Artifact Type="Water" X="200" Y="120"/>
+    <Artifact Type="Water" X="400" Y="120"/>
+    <Artifact Type="Water" X="440" Y="120"/>
+    <Artifact Type="Water" X="480" Y="120"/>
+    <Artifact Type="Water" X="120" Y="160"/>
+    <Artifact Type="Water" X="480" Y="160"/>
+    <Artifact Type="Water" X="120" Y="200"/>
+    <Artifact Type="Water" X="200" Y="200"/>
+    <Artifact Type="Water" X="240" Y="200"/>
+    <Artifact Type="Water" X="280" Y="200"/>
+    <Artifact Type="Water" X="320" Y="200"/>
+    <Artifact Type="Water" X="360" Y="200"/>
+    <Artifact Type="Water" X="400" Y="200"/>
+    <Artifact Type="Water" X="480" Y="200"/>
+    <Artifact Type="Water" X="120" Y="240"/>
+    <Artifact Type="Water" X="480" Y="240"/>
+    <Artifact Type="Water" X="120" Y="280"/>
+    <Artifact Type="Water" X="160" Y="280"/>
+    <Artifact Type="Water" X="200" Y="280"/>
+    <Artifact Type="Water" X="400" Y="280"/>
+    <Artifact Type="Water" X="440" Y="280"/>
+    <Artifact Type="Water" X="480" Y="280"/>
+    <Player Type="Link" X="290" Y="290"/>
+    <Enemy Type="Aquamentus" X="280" Y="120"/>
+    <Enemy Type="Aquamentus" X="400" Y="240"/>
+  </room>
+</level>
